@@ -35,7 +35,7 @@ Este é um site pessoal desenvolvido por Ricardo Moura para centralizar links im
     |-- smile-icon.png
     |-- web-black-icon.png
     |-- web-white-icon.png
-    |-- tread-skateboard.jpg
+    |-- tread-skateboard.png
 ```
 
 ## Como Usar
